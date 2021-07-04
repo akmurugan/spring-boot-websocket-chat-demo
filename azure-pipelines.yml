@@ -5,7 +5,7 @@ trigger:
 
 variables:
   # Agent VM image name
-  vmImageName: "jldeenlinux"
+  vmImageName: "Ubuntu-16.04"
   # artifactory URL
   artDocker_URL: "jfrogjd-docker.jfrog.io"
   # artifactory USER
